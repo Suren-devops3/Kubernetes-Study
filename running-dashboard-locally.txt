@@ -1,0 +1,2 @@
+Download kubectl from internet and copy to folder
+Copy data .kube/config to a file any name in to above copied folder
